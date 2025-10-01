@@ -1,3 +1,5 @@
+I would like to keep this README.md so I can reference this later if I forget what to do so here is my small change to the documentation - Kaitlyn
+
 This section activity is intended to introduce you to many of the tools and workflows that we'll use in CMPM 121, Game Development Patterns.
 
 Key tools:
